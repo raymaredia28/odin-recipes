@@ -1,0 +1,50 @@
+h1{
+    font-size: 70px;
+    text-align: center;
+    font-family: cursive, sans-serif;
+    font-weight: 1000;
+    background-color: rgb(209, 209, 0);
+}
+
+body{
+    background-color: rgba(255, 68, 68, 0.724);
+
+}
+
+h2, .ingredients{
+    background-color: rgb(121, 255, 121);
+    font-family: "Courier New", sans-serif;
+    font-weight: bold;
+    text-align: left;
+}
+
+
+
+ul{
+    background-color: rgba(81, 226, 255, 0.828);
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.desc{
+    background-color: aquamarine;
+    font-family: "Fantasy", sans-serif;
+}
+
+img{
+    height: auto;
+    width: 350px;
+    border-image: ;
+}
+
+ol{
+    background-color: beige;
+    font-family:'Arial Narrow Bold', sans-serif;
+    font-weight: 300;
+}
+
+.note{
+    font-size: 30px;
+}
+
+

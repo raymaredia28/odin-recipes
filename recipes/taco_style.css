@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+    font-size: 55px;
+    font-family: "Comic Sans MS", sans-serif;
+    background-color: tan;
+    border: 5px solid rgb(106, 73, 22)
+}
+
+h2{
+    text-align: center;
+    font-family:'Comic Sans MS', Courier, monospace;
+    font-size: 35px;
+    background-color: tan;
+    border: 5px solid rgb(106, 73, 22)
+}
+
+
+img{
+    border: 5px solid black;
+}
+
+
+.desc{
+    background-color: lightgreen;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+ul{
+    background-color: lightcoral;
+    font-family: monaco, sans-serif;
+}
+
+ol{
+    background-color:lightblue;
+    font-family: monaco, sans-serif;
+}
+
+body{
+    background-color: blanchedalmond;
+}
+
+.note{
+    font-family: "comic sans ms", sans-serif;
+}

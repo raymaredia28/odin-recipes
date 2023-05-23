@@ -1,0 +1,26 @@
+.title{
+    text-align: center;
+    font-size: 100px;
+    font-family: Courier, sans-serif;
+    color: rgb(0, 186, 248);
+    font-weight: 100;
+}
+
+img{
+    height: 700px;
+    width: auto;
+    border: 5px solid black;
+ 
+    
+}
+
+.food{
+    font-family: "Comic Sans MS", sans-serif;
+    font-size: 35px;
+    text-align: center;
+    
+}
+
+body{
+    background-color: aquamarine;
+}
