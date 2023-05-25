@@ -3,48 +3,69 @@ h1{
     text-align: center;
     font-family: cursive, sans-serif;
     font-weight: 1000;
-    background-color: rgb(209, 209, 0);
+    background-color: rgb(175, 69, 69);
+    color: white;
+    padding: 16px;
+    border: 8px solid black;
 }
 
 body{
-    background-color: rgba(255, 68, 68, 0.724);
+    margin: 32px 32px;
 
 }
 
-h2, .ingredients{
-    background-color: rgb(121, 255, 121);
-    font-family: "Courier New", sans-serif;
+h2{
+    background-color: lightgreen;
+    font-family: "Comic Sans MS", sans-serif;
     font-weight: bold;
-    text-align: left;
+    text-align: center;
+    border: 4px dashed black;
 }
 
 
 
 ul{
-    background-color: rgba(81, 226, 255, 0.828);
+    background-color: lightyellow;
     font-size: 20px;
+    border: 2px solid black;
+    padding: 32px;
+    padding-left: 75px;
+    margin: auto 32px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 
 .desc{
-    background-color: aquamarine;
+    background-color: lightyellow;
     font-family: "Fantasy", sans-serif;
+    padding: 16px;
+    border: 2px solid black;
 }
 
 img{
     height: auto;
     width: 350px;
-    border-image: ;
+    margin: 0 auto;
+    display: block;
+    border: 5px solid black;
 }
 
 ol{
-    background-color: beige;
+    background-color: lightyellow;
     font-family:'Arial Narrow Bold', sans-serif;
-    font-weight: 300;
+    font-weight: 500;
+    border: 2px solid black;
+    padding: 32px 75px;
 }
 
 .note{
-    font-size: 30px;
+    width: 340px;
+    font-size: 15px;
+    display: block;
+    margin-top: 35px
+}
+
+.note:hover{
+    background-color: lightblue;
 }
 
 
