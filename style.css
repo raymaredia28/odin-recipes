@@ -1,17 +1,20 @@
 .title{
     text-align: center;
     font-size: 100px;
-    font-family: Courier, sans-serif;
-    color: rgb(0, 186, 248);
+    font-family: "Comic Sans MS", sans-serif;
+    color: black;
     font-weight: 100;
+    border: 10px dashed black;
+    background-color: blanchedalmond;
+    padding: 30px;
+    margin: auto;
 }
 
 img{
-    height: 700px;
-    width: auto;
-    border: 5px solid black;
- 
-    
+    height: auto;
+    width: 820px;
+    border: 8px dotted black;
+    block-sizing: border-box;   
 }
 
 .food{
@@ -23,4 +26,28 @@ img{
 
 body{
     background-color: aquamarine;
+}
+
+ul{
+    width: 900px;
+    margin: 0 auto;
+    
+}
+
+li{
+    margin: 20px;
+    border: 5px solid blue;
+    display: inline-block;
+    background-color: tan;
+    padding: 15px;
+    display: inline-block
+}
+
+li:hover{
+    background-color: rgb(254, 239, 220);
+}
+
+div{
+    width: 800px;
+    margin: 0 auto;
 }
